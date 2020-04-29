@@ -20,7 +20,7 @@ Latest update at April 29th, 2020
 3. Run the software by double-clicking 'source.exe' or its shortcut to run the software
 4. Type in your username and password, then click 'SAVE' button
 5. The software will automatically run on background after turing your computer on (you can see an icon in the system tray)
-6. Hope you enjoy
+6. Hope you like!
 
 ## Requirement
 OS: Windows 7 or higher  

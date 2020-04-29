@@ -3,12 +3,12 @@
 Latest update at April 29th, 2020
 ***
 ## Installing
-### Protable version
+#### Protable version
 1. Download the .zip file (about 117MB)
 2. Unzip all the files to a custom location
 3. Done
 
-### Installation version
+#### Installation version
 1. Download the .exe file (about 3MB)
 2. Run the install setup
 3. Follow the instruction of the setup

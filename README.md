@@ -23,11 +23,11 @@ Latest update at April 29th, 2020
 6. Hope you enjoy
 
 ## Requirement
-OS: Windows 7 or higher
-Storage: at least 120MB free space required
-Others: NUK Network Enviroment
+OS: Windows 7 or higher  
+Storage: at least 120MB free space required  
+Others: NUK Network Enviroment  
 
 ## Information
-NUK AutoNet is developed by Jiaxuan Lin
-It powered by PyQt5
-We will NOT send or save your personal information in any conditions
+NUK AutoNet is developed by Jiaxuan Lin  
+It powered by PyQt5  
+We will NOT send or save your personal information in any conditions  

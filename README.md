@@ -15,12 +15,13 @@ Latest update at April 29th, 2020
 4. Done
 
 ## How to use
-1. Open the starup folder by pressing Win+R and typing in 'shell:startup'
-2. paste the shortcut of source.exe to startup folder (if you install with the setup, shortcut has already been created on your desktop)
-3. Run the software by double-clicking 'source.exe' or its shortcut to run the software
+1. Open the starup folder by pressing Win+R and typing in 'shell:startup' (without quotation mark)
+2. Paste the shortcut of source.exe to startup folder (if you install with the setup, shortcut has already been created on your desktop)
+3. Run the software by double-clicking 'source.exe' or its shortcut
 4. Type in your username and password, then click 'SAVE' button
 5. The software will automatically run on background after turing your computer on (you can see an icon in the system tray)
-6. Hope you like!
+6. If you want quit the software, right click the icon in the <b>system tray</b>, then choose 'quit'
+7. Hope you like!
 
 ## Requirement
 OS: Windows 7 or higher  

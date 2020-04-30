@@ -2,7 +2,7 @@
 <b>Automatically log into the student's dormitory network in National University of Kaohsiung</b>  
 Latest update at April 29th, 2020
 ***
-## Installing
+## Install
 #### Protable version
 1. Download the .zip file (about 117MB)
 2. Unzip all the files to a custom location

@@ -1,5 +1,5 @@
 # NUK-AutoNet
-<b>Automatically log into the network of student's dormitory in National University of Kaohsiung</b>  
+<b>Automatically log into the student's dormitory network in National University of Kaohsiung</b>  
 Latest update at April 29th, 2020
 ***
 ## Installing
@@ -30,4 +30,4 @@ Others: NUK Network Enviroment
 ## Information
 NUK AutoNet is developed by Jiaxuan Lin  
 It powered by PyQt5  
-We will NOT send or save your personal information in any conditions  
+<b>We will NOT send or save your personal information in any conditions</b>  
